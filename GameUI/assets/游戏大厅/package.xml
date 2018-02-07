@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="3imb0zin" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="dfop0" name="MainLobby.xml" path="/" exported="true"/>
+    <image id="dfop1" name="背景1.jpg" path="/素材/" exported="true"/>
+    <image id="dfop2" name="菜单-底.png" path="/素材/" exported="true"/>
+    <image id="dfop3" name="菜单-反馈.png" path="/素材/" exported="true"/>
+    <image id="dfop4" name="菜单-分享.png" path="/素材/" exported="true"/>
+    <image id="dfop5" name="菜单-红点提示.png" path="/素材/" exported="true"/>
+    <image id="dfop6" name="菜单-商城.png" path="/素材/" exported="true"/>
+    <image id="dfop7" name="菜单-设置.png" path="/素材/" exported="true"/>
+    <image id="dfop8" name="菜单-玩法.png" path="/素材/" exported="true"/>
+    <image id="dfop9" name="菜单-邮件.png" path="/素材/" exported="true"/>
+    <image id="dfopa" name="菜单-战绩.png" path="/素材/" exported="true"/>
+    <image id="dfopb" name="返回.png" path="/素材/" exported="true"/>
+    <image id="dfopc" name="房间入口-创建.png" path="/素材/" exported="true"/>
+    <image id="dfopd" name="房间入口-斗地主.png" path="/素材/" exported="true"/>
+    <image id="dfope" name="房间入口-加入.png" path="/素材/" exported="true"/>
+    <image id="dfopf" name="房间入口-推倒胡.png" path="/素材/" exported="true"/>
+    <image id="dfopg" name="房间入口-血流.png" path="/素材/" exported="true"/>
+    <image id="dfoph" name="房间入口-血战.png" path="/素材/" exported="true"/>
+    <image id="dfopi" name="角色.png" path="/素材/" exported="true"/>
+    <image id="dfopj" name="排行榜-创建好友房标题.png" path="/素材/" exported="true"/>
+    <image id="dfopk" name="排行榜-底.png" path="/素材/" exported="true"/>
+    <image id="dfopl" name="排行榜-好友排行标题.png" path="/素材/" exported="true"/>
+    <image id="dfopm" name="排行榜-送金币.png" path="/素材/" exported="true"/>
+    <image id="dfopn" name="排行榜-玩家底.png" path="/素材/" exported="true"/>
+    <image id="dfopo" name="排行榜-邀请好友.png" path="/素材/" exported="true"/>
+    <image id="dfopp" name="排行榜-已送倒计时底.png" path="/素材/" exported="true"/>
+    <image id="dfopq" name="跑马灯-底.png" path="/素材/" exported="true"/>
+    <image id="dfopr" name="用户栏-底.png" path="/素材/" exported="true"/>
+    <image id="dfops" name="用户栏-房卡.png" path="/素材/" exported="true"/>
+    <image id="dfopt" name="用户栏-房卡底框.png" path="/素材/" exported="true"/>
+    <image id="dfopu" name="用户栏-金币.png" path="/素材/" exported="true"/>
+    <image id="dfopv" name="用户栏-金币底框.png" path="/素材/" exported="true"/>
+    <image id="dfopw" name="用户栏-默认头像.png" path="/素材/" exported="true"/>
+    <image id="dfopx" name="用户栏-头像框底部.png" path="/素材/" exported="true"/>
+    <font id="dfopy" name="Font.fnt" path="/组件/" exported="true"/>
+    <image id="dfopz" name="0.png" path="/素材/用户栏-文字/"/>
+    <image id="dfop10" name="1.png" path="/素材/用户栏-文字/"/>
+    <image id="dfop11" name="2.png" path="/素材/用户栏-文字/"/>
+    <image id="dfop12" name="3.png" path="/素材/用户栏-文字/"/>
+    <image id="dfop13" name="4.png" path="/素材/用户栏-文字/"/>
+    <image id="dfop14" name="5.png" path="/素材/用户栏-文字/"/>
+    <image id="dfop15" name="6.png" path="/素材/用户栏-文字/"/>
+    <image id="dfop16" name="7.png" path="/素材/用户栏-文字/"/>
+    <image id="dfop17" name="8.png" path="/素材/用户栏-文字/"/>
+    <image id="dfop18" name="9.png" path="/素材/用户栏-文字/"/>
+    <image id="dfop19" name="万.png" path="/素材/用户栏-文字/"/>
+    <image id="dfop1a" name="张.png" path="/素材/用户栏-文字/"/>
+    <image id="dfop1b" name="房卡：.png" path="/素材/用户栏-文字/"/>
+    <image id="dfop1c" name="字体颜色示意图.jpg" path="/示意图/"/>
+    <component id="dfop1d" name="UserInfo.xml" path="/组件/" exported="true"/>
+    <component id="dfop1e" name="ButtonCommon.xml" path="/组件/" exported="true"/>
+    <component id="dfop1f" name="FriendItem.xml" path="/组件/" exported="true"/>
+    <component id="dfop1g" name="BtnGetMoney.xml" path="/组件/" exported="true"/>
+  </resources>
+  <publish name="游戏大厅" path="E:\麻将项目\MaJingGame\MaJiangGame\Assets\FairyGUIResource\Resources"/>
+</packageDescription>

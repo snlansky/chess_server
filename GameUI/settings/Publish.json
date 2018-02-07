@@ -1,0 +1,14 @@
+{
+	"codeGeneration":{
+		"classNamePrefix":"UI",
+		"codePath":"F:\\ChessGame\\GameClient\\src\\uiResource",
+		"codeType":"C#",
+		"getMemberByName":false,
+		"ignoreNoname":true,
+		"memberNamePrefix":"",
+		"packageName":""
+	},
+	"fileExtension":"fui",
+	"packageCount":2,
+	"path":"E:\\麻将项目\\MaJingGame\\MaJiangGame\\Assets\\FairyGUIResource"
+}

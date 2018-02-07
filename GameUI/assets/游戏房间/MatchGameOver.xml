@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720" designImage="ui://z6ip7w8exxsu4b" adaptationTest="FitSize">
+  <displayList>
+    <image id="n0_xxsu" name="n0" src="xxsu4c" xy="61,59" group="n6_j3z4"/>
+    <component id="n1_xxsu" name="n1" src="xxsu21" pkg="zv048xp0" xy="1154,2" group="n6_j3z4"/>
+    <image id="n2_xxsu" name="n2" src="xxsuu" xy="324,2" group="n6_j3z4"/>
+    <list id="n3_xxsu" name="n3" xy="99,126" size="1083,447" group="n6_j3z4" layout="row" colGap="2" defaultItem="ui://z6ip7w8exxsu4f">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n4_xxsu" name="n4" src="xxsu4d" xy="409,596" group="n6_j3z4"/>
+    <component id="n5_xxsu" name="n5" src="xxsu4e" xy="676,597" group="n6_j3z4"/>
+    <group id="n6_j3z4" name="n6" xy="61,2" size="1213,689" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640" bgColorEnabled="true" bgColor="#cccccc">
+  <displayList>
+    <image id="n4_g0gd" name="n4" src="g0gd1" xy="1,-2" size="1134,640"/>
+    <text id="n2_g0gd" name="loginLabel" xy="326,186" size="127,48" fontSize="30" color="#dcb70e" align="center" vAlign="middle" autoSize="none" bold="true" text="帐号："/>
+    <component id="n3_g0gd" name="loginButton" src="hixt1j" pkg="9leh0eyf" xy="351,326">
+      <relation target="" sidePair=""/>
+      <Button title="登录"/>
+    </component>
+    <text id="n0_g0gd" name="loginName" xy="477,187" size="315,48" input="true" prompt="请输入帐号" keyboardType="1" fontSize="30" align="center" vAlign="middle" autoSize="none" bold="true" text=""/>
+    <component id="n5_h6a3" name="cancelButton" src="hixt1j" pkg="9leh0eyf" xy="581,326">
+      <Button title="取消"/>
+    </component>
+  </displayList>
+</component>

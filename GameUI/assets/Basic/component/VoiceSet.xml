@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="480,45" extention="Slider">
+  <displayList>
+    <image id="n0" name="n0" src="eut94v" xy="0,0"/>
+    <image id="n1" name="bar" src="eut94w" xy="30,3" size="393,15"/>
+    <text id="n3" name="title" xy="220,25" size="40,16" fontSize="12" color="#ff9900" strokeColor="#000000" text=""/>
+    <component id="n4_vkxk" name="n4" src="vkxk8w" xy="412,0"/>
+  </displayList>
+  <Slider/>
+</component>

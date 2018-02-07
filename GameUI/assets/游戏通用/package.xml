@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="zv048xp0" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="xxsu0" name="base1.png" path="/素材/"/>
+    <image id="xxsu1" name="base2.png" path="/素材/"/>
+    <image id="xxsu2" name="base3.png" path="/素材/"/>
+    <image id="xxsu3" name="base4.png" path="/素材/"/>
+    <image id="xxsu4" name="close.png" path="/素材/"/>
+    <image id="xxsu5" name="adjust_button.png" path="/素材/设置/"/>
+    <image id="xxsu6" name="dark.png" path="/素材/设置/"/>
+    <image id="xxsu7" name="light.png" path="/素材/设置/"/>
+    <image id="xxsu8" name="log_out.png" path="/素材/设置/"/>
+    <image id="xxsu9" name="music1.png" path="/素材/设置/"/>
+    <image id="xxsua" name="music2.png" path="/素材/设置/"/>
+    <image id="xxsub" name="off.png" path="/素材/设置/"/>
+    <image id="xxsuc" name="on.png" path="/素材/设置/"/>
+    <image id="xxsud" name="title_setting.png" path="/素材/设置/"/>
+    <image id="xxsue" name="button_big.png" path="/素材/系统公告/"/>
+    <image id="xxsuf" name="content.png" path="/素材/系统公告/"/>
+    <image id="xxsug" name="free_event.png" path="/素材/系统公告/"/>
+    <image id="xxsuh" name="subtitle.png" path="/素材/系统公告/"/>
+    <image id="xxsui" name="title.png" path="/素材/系统公告/"/>
+    <image id="xxsuj" name="content1.png" path="/素材/邮件/"/>
+    <image id="xxsuk" name="content2.png" path="/素材/邮件/"/>
+    <image id="xxsul" name="mail_base.png" path="/素材/邮件/"/>
+    <image id="xxsum" name="消息-按下.png" path="/素材/邮件/"/>
+    <image id="xxsun" name="消息.png" path="/素材/邮件/"/>
+    <image id="xxsuo" name="联系我们-按下.png" path="/素材/邮件/"/>
+    <image id="xxsup" name="联系我们.png" path="/素材/邮件/"/>
+    <image id="xxsuq" name="提示.png" path="/素材/游戏更新/"/>
+    <image id="xxsur" name="big_#button.png" path="/素材/#按钮/"/>
+    <image id="xxsus" name="big_cancel.png" path="/素材/#按钮/"/>
+    <image id="xxsut" name="big_ok.png" path="/素材/#按钮/"/>
+    <image id="xxsuu" name="small_#button.png" path="/素材/#按钮/"/>
+    <image id="xxsuv" name="small_agree.png" path="/素材/#按钮/"/>
+    <image id="xxsuw" name="small_cancel.png" path="/素材/#按钮/"/>
+    <image id="xxsux" name="small_ok.png" path="/素材/#按钮/"/>
+    <image id="xxsuy" name="small_refuse.png" path="/素材/#按钮/"/>
+    <image id="xxsuz" name="small_update.png" path="/素材/#按钮/"/>
+    <image id="xxsu10" name="不得少于8个字.png" path="/素材/反馈/"/>
+    <image id="xxsu11" name="反馈-按下.png" path="/素材/反馈/"/>
+    <image id="xxsu12" name="反馈.png" path="/素材/反馈/"/>
+    <image id="xxsu13" name="发送_小.png" path="/素材/反馈/"/>
+    <image id="xxsu14" name="感谢您的反馈.png" path="/素材/反馈/"/>
+    <image id="xxsu15" name="提交_小.png" path="/素材/反馈/"/>
+    <image id="xxsu16" name="玩家反馈框.png" path="/素材/反馈/"/>
+    <image id="xxsu17" name="答复-按下.png" path="/素材/反馈/"/>
+    <image id="xxsu18" name="答复.png" path="/素材/反馈/"/>
+    <image id="xxsu19" name="系统回复框.png" path="/素材/反馈/"/>
+    <image id="xxsu1a" name="button1_big.png" path="/素材/分享/"/>
+    <image id="xxsu1b" name="button2_big.png" path="/素材/分享/"/>
+    <image id="xxsu1c" name="content.png" path="/素材/分享/"/>
+    <image id="xxsu1d" name="subtitle.png" path="/素材/分享/"/>
+    <image id="xxsu1e" name="title_share.png" path="/素材/分享/"/>
+    <image id="xxsu1f" name="wechat_icon.png" path="/素材/分享/"/>
+    <image id="xxsu1g" name="0.png" path="/素材/加入房间/"/>
+    <image id="xxsu1h" name="1.png" path="/素材/加入房间/"/>
+    <image id="xxsu1i" name="2.png" path="/素材/加入房间/"/>
+    <image id="xxsu1j" name="3.png" path="/素材/加入房间/"/>
+    <image id="xxsu1k" name="4.png" path="/素材/加入房间/"/>
+    <image id="xxsu1l" name="5.png" path="/素材/加入房间/"/>
+    <image id="xxsu1m" name="6.png" path="/素材/加入房间/"/>
+    <image id="xxsu1n" name="7.png" path="/素材/加入房间/"/>
+    <image id="xxsu1o" name="8.png" path="/素材/加入房间/"/>
+    <image id="xxsu1p" name="9.png" path="/素材/加入房间/"/>
+    <image id="xxsu1q" name="circle.png" path="/素材/加入房间/"/>
+    <image id="xxsu1r" name="delete.png" path="/素材/加入房间/"/>
+    <image id="xxsu1s" name="retype.png" path="/素材/加入房间/"/>
+    <image id="xxsu1t" name="text.png" path="/素材/加入房间/"/>
+    <image id="xxsu1u" name="tips.png" path="/素材/加入房间/"/>
+    <image id="xxsu1v" name="title_join.png" path="/素材/加入房间/"/>
+    <image id="xxsu1w" name="B0C49FAA-拷贝.png" path="/素材/商城/"/>
+    <image id="xxsu1x" name="shop_special_title.png" path="/素材/商城/"/>
+    <image id="xxsu1y" name="好友同玩！.png" path="/素材/商城/"/>
+    <image id="xxsu1z" name="房卡（大）备份-拷贝.png" path="/素材/商城/"/>
+    <image id="xxsu20" name="购买房卡请联系微信：jiumei091.png" path="/素材/商城/"/>
+    <component id="xxsu21" name="ButtnClose.xml" path="/组件/" exported="true"/>
+  </resources>
+  <publish name="游戏通用"/>
+</packageDescription>

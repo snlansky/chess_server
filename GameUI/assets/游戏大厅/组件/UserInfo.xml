@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,83">
+  <displayList>
+    <image id="n0_dfop" name="n0" src="dfopr" xy="0,0"/>
+    <image id="n1_dfop" name="n1" src="dfopx" xy="-5,-4"/>
+    <image id="n2_dfop" name="n2" src="dfopw" xy="7,5"/>
+    <text id="n4_dfop" name="userName" xy="87,5" size="146,34" fontSize="22" color="#ffffff" autoSize="none" bold="true" text="用户名六个字"/>
+    <image id="n6_dfop" name="n6" src="dfopv" xy="84,40"/>
+    <image id="n5_dfop" name="n5" src="dfopu" xy="81,40"/>
+    <text id="n7_dfop" name="money" xy="119,41" size="112,30" font="ui://3imb0zindfopy" fontSize="20" autoSize="none" text="1345.1万"/>
+    <image id="n8_dfop" name="n8" src="dfopt" xy="258,40"/>
+    <image id="n9_dfop" name="n9" src="dfops" xy="246,37"/>
+    <text id="n10_dfop" name="n10" xy="285,41" size="58,29" font="ui://3imb0zindfopy" fontSize="20" autoSize="none" text="房卡"/>
+    <text id="n11_dfop" name="cardNum" xy="345,41" size="80,27" font="ui://3imb0zindfopy" fontSize="20" autoSize="none" text="999张"/>
+  </displayList>
+</component>

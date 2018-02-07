@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="r5x6wd5v" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="odnx8" name="BagGridSub.xml" path="/" exported="true"/>
+    <component id="odnxb" name="BagMain.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="bag" path="E:\麻将项目\MaJingGame\MaJiangGame\Assets\Resources\MajiangRes\bag" genCode="true">
+    <atlas name="Default" index="0"/>
+  </publish>
+</packageDescription>

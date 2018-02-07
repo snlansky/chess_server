@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720" designImage="ui://3imb0zindfop1c" designImageAlpha="0" adaptationTest="FitSize">
+  <controller name="gameController" alias="创建房间" pages="0,主界面,1,血流麻将,2,血战麻将,3,创建好友房" selected="0">
+    <action type="play_transition" fromPage="0" toPage="1" transition="girlToLeft"/>
+    <action type="play_transition" fromPage="1" toPage="0" transition="girlToRight"/>
+  </controller>
+  <displayList>
+    <image id="n0_dfop" name="n0" src="dfop1" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n1_dfop" name="n1" src="dfop1d" xy="0,0"/>
+    <image id="n2_dfop" name="n2" src="dfopq" xy="485,22" group="n3_dfop"/>
+    <text id="n4_dfop" name="noticeMsg" xy="481,24" size="794,43" group="n3_dfop" fontSize="25" color="#ffffff" ubb="true" autoSize="none" text="[color=#FEDE36]【系统】[/color]恭喜玩家 AO仪Baby 在血战场一把赢了164万？证书羡煞旁人"/>
+    <group id="n3_dfop" name="n3" xy="481,22" size="794,45" collapsed="true"/>
+    <component id="n27_dfop" name="n27" src="dfop1e" xy="1133,70" size="108,107">
+      <gearDisplay controller="gameController" pages="1,2,3"/>
+      <Button icon="ui://3imb0zindfopb" controller="gameController" page="0"/>
+    </component>
+    <image id="n14_dfop" name="n14" src="dfopi" xy="396,57">
+      <relation target="" sidePair="bottom-bottom"/>
+    </image>
+    <component id="n15_dfop" name="n15" src="dfop1e" xy="785,80" size="411,185" group="n18_dfop">
+      <Button icon="ui://3imb0zindfopg" controller="gameController" page="1"/>
+    </component>
+    <component id="n16_dfop" name="n16" src="dfop1e" xy="785,245" size="411,185" group="n18_dfop">
+      <Button icon="ui://3imb0zindfoph" controller="gameController" page="1"/>
+    </component>
+    <component id="n17_dfop" name="n17" src="dfop1e" xy="785,409" size="411,185" group="n18_dfop">
+      <Button icon="ui://3imb0zindfopc" controller="gameController" page="3"/>
+    </component>
+    <group id="n18_dfop" name="n18" xy="785,80" size="411,515" group="n25_dfop" advanced="true" layout="vt" lineGap="-20"/>
+    <image id="n19_dfop" name="n19" src="dfopk" xy="19,114" group="n24_dfop"/>
+    <list id="n21_dfop" name="n21" xy="34,190" size="332,325" group="n24_dfop" overflow="scroll" lineGap="2" defaultItem="ui://3imb0zindfop1f">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n22_dfop" name="n22" xy="35,525" size="327,36" group="n24_dfop" fontSize="20" color="#eed4aa" align="center" autoSize="none" text="每日最多可以互送10个好友哦！"/>
+    <image id="n23_dfop" name="n23" src="dfopl" xy="107,139" group="n24_dfop"/>
+    <group id="n24_dfop" name="n24" xy="19,114" size="363,459" group="n25_dfop"/>
+    <group id="n25_dfop" name="游戏大厅" xy="19,80" size="1177,515" group="n35_e2dd" advanced="true" collapsed="true">
+      <gearDisplay controller="gameController" pages="0"/>
+    </group>
+    <component id="n26_dfop" name="n26" src="dfop1e" xy="803,254" size="435,198" group="n28_dfop">
+      <Button icon="ui://3imb0zindfope"/>
+    </component>
+    <image id="n29_dfop" name="n29" src="dfopk" xy="19,114" group="n28_dfop"/>
+    <image id="n30_dfop" name="n30" src="dfopj" xy="113,141" group="n28_dfop"/>
+    <list id="n31_dfop" name="n31" xy="35,197" size="334,312" group="n28_dfop" lineGap="30">
+      <item url="ui://3imb0zindfop1e" icon="ui://3imb0zindfopf"/>
+      <item url="ui://3imb0zindfop1e" icon="ui://3imb0zindfopd"/>
+    </list>
+    <text id="n32_dfop" name="n32" xy="70,526" size="255,31" group="n28_dfop" fontSize="20" color="#eed4aa" align="center" autoSize="none" text="本月创建房间一律免费&#xA;"/>
+    <group id="n28_dfop" name="创建好友房" xy="19,114" size="1219,459" group="n35_e2dd" advanced="true" collapsed="true">
+      <gearDisplay controller="gameController" pages="3"/>
+    </group>
+    <group id="n35_e2dd" name="n35" xy="19,80" size="1219,515" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <image id="n5_dfop" name="n5" src="dfop2" xy="18,670" group="n36_e2dd"/>
+    <component id="n6_dfop" name="n6" src="dfop1e" xy="94,626" size="60,81" group="n13_dfop">
+      <Button icon="ui://3imb0zindfop7"/>
+    </component>
+    <component id="n7_dfop" name="n7" src="dfop1e" xy="254,635" size="63,72" group="n13_dfop">
+      <Button icon="ui://3imb0zindfop9"/>
+    </component>
+    <component id="n8_dfop" name="n8" src="dfop1e" xy="417,629" size="66,78" group="n13_dfop">
+      <Button icon="ui://3imb0zindfop4"/>
+    </component>
+    <component id="n9_dfop" name="n9" src="dfop1e" xy="583,629" size="61,78" group="n13_dfop">
+      <Button icon="ui://3imb0zindfop8"/>
+    </component>
+    <component id="n10_dfop" name="n10" src="dfop1e" xy="744,631" size="61,76" group="n13_dfop">
+      <Button icon="ui://3imb0zindfop3"/>
+    </component>
+    <component id="n11_dfop" name="n11" src="dfop1e" xy="905,626" size="66,81" group="n13_dfop">
+      <Button icon="ui://3imb0zindfopa"/>
+    </component>
+    <component id="n12_dfop" name="n12" src="dfop1e" xy="1071,613" size="100,94" group="n13_dfop">
+      <Button icon="ui://3imb0zindfop6"/>
+    </component>
+    <group id="n13_dfop" name="n13" xy="94,613" size="1077,94" group="n36_e2dd" advanced="true" collapsed="true" layout="hz" colGap="100"/>
+    <group id="n36_e2dd" name="n36" xy="18,613" size="1227,105" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+  </displayList>
+  <transition name="girlToLeft">
+    <item time="0" type="XY" target="n14_dfop" tween="true" startValue="396,57" endValue="-3,57" duration="18"/>
+  </transition>
+  <transition name="girlToRight">
+    <item time="0" type="XY" target="n14_dfop" tween="true" startValue="0,57" endValue="396,57" duration="18"/>
+  </transition>
+</component>

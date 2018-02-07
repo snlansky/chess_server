@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="270,448">
+  <controller name="winOrLose" pages="0,赢,1,输" selected="0"/>
+  <controller name="playerType" pages="0,本家,1,对家,2,上家,3,下家" selected="3"/>
+  <displayList>
+    <image id="n0_xxsu" name="n0" src="xxsup" xy="0,0" locked="true">
+      <gearDisplay controller="winOrLose" pages="0"/>
+    </image>
+    <image id="n1_xxsu" name="n1" src="xxsuo" xy="0,0" locked="true">
+      <gearDisplay controller="winOrLose" pages="1"/>
+    </image>
+    <image id="n2_xxsu" name="n2" src="xxsus" xy="25,390">
+      <gearDisplay controller="winOrLose" pages="0"/>
+    </image>
+    <image id="n3_xxsu" name="n3" src="xxsut" xy="25,390">
+      <gearDisplay controller="winOrLose" pages="1"/>
+    </image>
+    <text id="n4_xxsu" name="n4" xy="8,2" size="257,40" fontSize="25" color="#ae510d" align="center" autoSize="none" text="AO仪Babyy"/>
+    <text id="n6_xxsu" name="n6" xy="94,42" size="164,34" fontSize="22" color="#ae510d" autoSize="none" text="ID:63543453531"/>
+    <image id="n9_xxsu" name="n9" src="xxsu4j" xy="85,62" group="n11_xxsu"/>
+    <image id="n10_xxsu" name="n10" src="xxsu4k" xy="85,62" group="n11_xxsu"/>
+    <group id="n11_xxsu" name="n11" xy="85,62" size="102,102"/>
+    <text id="n12_xxsu" name="n12" xy="24,158" size="104,34" group="n19_j3z4" fontSize="22" color="#ae510d" autoSize="none" text="无鬼自摸"/>
+    <text id="n13_j3z4" name="n13" xy="24,195" size="104,34" group="n19_j3z4" fontSize="22" color="#ae510d" autoSize="none" text="有鬼自摸"/>
+    <text id="n14_j3z4" name="n14" xy="24,232" size="104,34" group="n19_j3z4" fontSize="22" color="#ae510d" autoSize="none" text="暗杠条数"/>
+    <text id="n15_j3z4" name="n15" xy="24,269" size="104,34" group="n19_j3z4" fontSize="22" color="#ae510d" autoSize="none" text="明杠条数"/>
+    <text id="n16_j3z4" name="n16" xy="24,306" size="104,34" group="n19_j3z4" fontSize="22" color="#ae510d" autoSize="none" text="中马总数"/>
+    <text id="n17_j3z4" name="n17" xy="24,343" size="104,34" group="n19_j3z4" fontSize="22" color="#ae510d" autoSize="none" text="一二三四"/>
+    <group id="n19_j3z4" name="n19" xy="24,158" size="104,219" collapsed="true"/>
+    <text id="n20_j3z4" name="n20" xy="141,158" size="104,34" group="n26_j3z4" fontSize="22" color="#ae510d" autoSize="none" text="无鬼自摸"/>
+    <text id="n21_j3z4" name="n21" xy="141,195" size="104,34" group="n26_j3z4" fontSize="22" color="#ae510d" autoSize="none" text="无鬼自摸"/>
+    <text id="n22_j3z4" name="n22" xy="141,232" size="104,34" group="n26_j3z4" fontSize="22" color="#ae510d" autoSize="none" text="无鬼自摸"/>
+    <text id="n23_j3z4" name="n23" xy="141,269" size="104,34" group="n26_j3z4" fontSize="22" color="#ae510d" autoSize="none" text="无鬼自摸"/>
+    <text id="n24_j3z4" name="n24" xy="141,306" size="104,34" group="n26_j3z4" fontSize="22" color="#ae510d" autoSize="none" text="无鬼自摸"/>
+    <text id="n25_j3z4" name="n25" xy="141,343" size="104,34" group="n26_j3z4" fontSize="22" color="#ae510d" autoSize="none" text="无鬼自摸"/>
+    <group id="n26_j3z4" name="n26" xy="141,158" size="104,219" collapsed="true"/>
+    <text id="n27_j3z4" name="n27" xy="141,395" size="88,35" fontSize="22" color="#89331c" align="center" autoSize="none" text="6"/>
+    <image id="n5_xxsu" name="n5" src="xxsuk" xy="20,43" group="n31_j3z4">
+      <gearDisplay controller="playerType" pages="0"/>
+    </image>
+    <image id="n28_j3z4" name="n28" src="xxsul" xy="20,43" group="n31_j3z4">
+      <gearDisplay controller="playerType" pages="1"/>
+    </image>
+    <image id="n29_j3z4" name="n29" src="xxsum" xy="20,43" group="n31_j3z4">
+      <gearDisplay controller="playerType" pages="2"/>
+    </image>
+    <image id="n30_j3z4" name="n30" src="xxsun" xy="20,43" group="n31_j3z4">
+      <gearDisplay controller="playerType" pages="3"/>
+    </image>
+    <group id="n31_j3z4" name="n31" xy="20,43" size="59,30"/>
+  </displayList>
+</component>

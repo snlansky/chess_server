@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,500" bgColorEnabled="true" bgColor="#207167">
+  <displayList>
+    <list id="n2_odnx" name="n2" xy="18,15" size="757,480" layout="flow_hz" overflow="scroll" lineGap="5" colGap="5" defaultItem="ui://r5x6wd5vodnx8">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n3_odnx" name="n3" src="odnx8q" pkg="9leh0eyf" xy="20,21" size="79,75"/>
+  </displayList>
+</component>
